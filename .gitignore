@@ -1,0 +1,38 @@
+*.py[cod]
+*.py-e
+*.swp
+*.so
+.idea
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Node.js, webpack artifacts
+yarn-error.log
+*.entry.js
+*.js.map
+node_modules
+npm-debug.log*
